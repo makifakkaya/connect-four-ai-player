@@ -1,4 +1,4 @@
-# Connect-4 AI Player
+# Connect-Four AI Player
 
 ### [Play Demo Game](https://akifakkaya.com/connect-four/)
 
