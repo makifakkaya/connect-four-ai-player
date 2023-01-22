@@ -1,5 +1,7 @@
 # Connect-Four AI Player
 
+The project is a single player or two-player Connect Four game that can be played against a computer. The computer utilizes the minimax algorithm to make its decisions. The project was developed using JavaScript.
+
 ### [Play Demo Game](https://akifakkaya.com/connect-four/)
 
 ## Previews
