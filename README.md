@@ -2,7 +2,7 @@
 
 The project is a single player or two-player Connect Four game that can be played against a computer. The computer utilizes the minimax algorithm to make its decisions. The project was developed using JavaScript.
 
-### [Play Demo Game](https://akifakkaya.com/connect-four/)
+### [Play Demo Game](https://akifakkaya.com/demos/connect-four/)
 
 ## Previews
 ![image](https://user-images.githubusercontent.com/60367291/213729920-c6004a70-9e13-4d17-990c-89ef97b82762.png)
